@@ -1,0 +1,5 @@
+name = "Brainfuck"
+grammar = "brainfuck"
+path_suffixes = ["bf"]
+autoclose_before = "]"
+brackets = [{ start = "[", end = "]", close = true, newline = true }]
