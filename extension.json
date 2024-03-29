@@ -1,7 +1,0 @@
-{
-  "name": "Brainfuck",
-  "version": "0.0.2",
-  "authors": ["Joseph Lyons <JosephTLyons@gmail.com>"],
-  "description": "Brainfuck language support for Zed",
-  "repository": "https://github.com/JosephTLyons/zed-brainfuck"
-}

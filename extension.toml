@@ -1,0 +1,11 @@
+id = "elisp"
+name = "Brainfuck"
+description = "Brainfuck language support for Zed"
+version = "0.0.3"
+schema_version = 1
+authors = ["Joseph Lyons <JosephTLyons@gmail.com>"]
+repository = "https://github.com/JosephTLyons/zed-brainfuck"
+
+[grammars.brainfuck]
+repository = "https://github.com/reo101/tree-sitter-brainfuck"
+commit = "9e5d80bca5ff890ae59e5adde35914668d0aa4ea"
